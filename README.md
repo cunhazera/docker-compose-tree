@@ -4,7 +4,7 @@
  - Clone the repo
  - `cd docker-compose-tree`
  - `docker-compose up`
- - Wait some seconds and... http://localhost:8080 will be up and running!
+ - Wait some seconds and... http://localhost:8080/node will be up and running!
 
 # It's already running on Google Cloud!
  - Create node: `POST http://35.238.143.151:8080/node`
